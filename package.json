@@ -1,3 +1,6 @@
+ "scripts": {
+            "start": "npm run dev"
+          }
 {
   "name": "mernbackend",
   "version": "1.0.0",
